@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "837060837563",
+    "firebase_url": "https://oboat-75025-default-rtdb.firebaseio.com",
+    "project_id": "oboat-75025",
+    "storage_bucket": "oboat-75025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837060837563:android:7cf2d952c8b8303a57a99e",
+        "android_client_info": {
+          "package_name": "com.example.boatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIkvumzxwMBp2Aqiq9UexxKEZBZ8lhHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
